@@ -10,11 +10,13 @@ A collection of interactive **OpenGL-based minigames** demonstrating fundamental
 
 ## 📸 Screenshots
 - **Bullet Frenzy**  
-  ![Bullet Frenzy Screenshot](link_to_screenshot)  
+  ![Bullet Frenzy Screenshot]([Screenshots/bullet fenzy.png](https://github.com/TheOnlyNaimur/Computer_Graphics_minigames/blob/22c194abb3d88e5d0ccc3c66b281c87a14f4113d/Screenshots/bullet%20fenzy.png))  
 - **Diamond Catcher**  
-  ![Diamond Catcher Screenshot](link_to_screenshot)  
+  ![Diamond Catcher Screenshot]([Screenshots/Dimond catcher.png](https://github.com/TheOnlyNaimur/Computer_Graphics_minigames/blob/22c194abb3d88e5d0ccc3c66b281c87a14f4113d/Screenshots/Dimond%20catcher.png))  
 - **Rainfall House**  
-  ![Rainfall House Screenshot](link_to_screenshot)
+  ![Rainfall House Screenshot]([Screenshots/Building a House in Rainfall.png](https://github.com/TheOnlyNaimur/Computer_Graphics_minigames/blob/22c194abb3d88e5d0ccc3c66b281c87a14f4113d/Screenshots/Building%20a%20House%20in%20Rainfall.png))
+- **Amazing Box**  
+  ![Amazing Box Screenshot]([Screenshots/build the amazing box.png](https://github.com/TheOnlyNaimur/Computer_Graphics_minigames/blob/22c194abb3d88e5d0ccc3c66b281c87a14f4113d/Screenshots/build%20the%20amazing%20box.png))
 
 
 
